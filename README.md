@@ -16,7 +16,7 @@ To install this project you must have node, inquirer, dotenv, express, mysql2, a
 
 ## Usage
 
-This application can be used to create the beginnings of an e commerce site, or to help future developers understand the fundamental architecture of e-commerce sites. You can view a walkthrough of this application here: [video walkthrough](https://drive.google.com/file/d/1SsjtVnfkBOdNvsN7YZEc9QvXnT9ciEfe/view)
+This application can be used to create the beginnings of an e commerce site, or to help future developers understand the fundamental architecture of e-commerce sites. You can view a walkthrough of this application here: [video walkthrough](https://drive.google.com/file/d/1fOMKzCOMMewRnfy3i292ljXThNMNfL_0/view)
 
 ![screenshot1](./public/assets/Screenshot%202022-11-03%20at%203.51.32%20PM.png)
 
